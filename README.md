@@ -7,7 +7,7 @@ This is my solution for the [QR code component challenge on Frontend Mentor](htt
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://github.com/uixcem/frontendmentor-qr)
-- Live Site URL: [Live Project](https://qrcodesolution.github.io)
+- Live Site URL: [Live Project](https://qrcodesolutionfronetendmentor.netlify.app/)
 
 ## My Process
 
