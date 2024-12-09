@@ -1,0 +1,1 @@
+# QRCodeSolution.github.io
