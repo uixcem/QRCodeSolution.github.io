@@ -52,11 +52,3 @@ body {
   color: var(--text-color);
   opacity: 0.8;
 }
-
-.attribution {
-  bottom: 1rem;
-  font-size: 1rem;
-  display: block;
-  width: 100%;
-  text-align: center;
-}
